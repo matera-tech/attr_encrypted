@@ -1,9 +1,9 @@
 module AttrEncrypted
   # Contains information about this gem's version
   module Version
-    MAJOR = 1
-    MINOR = 3
-    PATCH = 4
+    MAJOR = 3
+    MINOR = 0
+    PATCH = 3
 
     # Returns a version string by joining <tt>MAJOR</tt>, <tt>MINOR</tt>, and <tt>PATCH</tt> with <tt>'.'</tt>
     #
